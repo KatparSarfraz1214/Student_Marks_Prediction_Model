@@ -1,7 +1,7 @@
 # Student_Marks_Prediction_Model
 The Student Marks Prediction System is an end-to-end Machine Learning project that predicts a student’s academic performance based on multiple study-related and academic features. The project demonstrates the complete ML lifecycle — from data preprocessing and model training to deployment using a modern web interface. 
 
-Key Features
+# Key Features
 - Multiple Input Features (not limited to study hours)
 - Machine Learning Model trained using scikit-learn
 - Data preprocessing & feature engineering
@@ -11,7 +11,7 @@ Key Features
 - Error handling and input validation
 - Clear prediction output
 
-Tech Stack
+# Tech Stack
 - Python
 - Pandas & NumPy – data handling
 - Scikit-learn – model training & pipeline
@@ -19,7 +19,7 @@ Tech Stack
 - Streamlit – web application
 - Matplotlib / Seaborn (if used) – data visualization
 
-Machine Learning Workflow
+# Machine Learning Workflow
 - Data loading and cleaning
 - Feature selection and preprocessing
 - Train-test split
@@ -29,7 +29,7 @@ Machine Learning Workflow
 - Loading model in Streamlit app
 - Real-time prediction via user input
 
-Web Application
+# Web Application
 - The Streamlit app allows users to:
 - Enter academic and study-related details
 - Click a button to generate predictions
